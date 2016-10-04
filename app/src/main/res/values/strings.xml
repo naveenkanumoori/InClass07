@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iTunes Top Podcasts</string>
+    <string name="go">GO</string>
+    <string name="clear">Clear</string>
+    <string name="date">Updated On: </string>
+    <string name="summary">Summary</string>
+    <string name="loading">Loading News</string>
+</resources>
